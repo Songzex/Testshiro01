@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/commons-fileupload-1.3.1.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/commons-io-2.4.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/commons-lang3-3.3.2.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/pager-taglib.jar!/" />
+    <libelement value="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/sqljdbc4.jar!/" />
+    <conelement value="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="web" name="Web2">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/web" relative="/" />
+        </webroots>
+        <sourceRoots>
+          <root url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/src/main/java" />
+          <root url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/src/main/resources" />
+        </sourceRoots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/target/classes" />
+    <output-test url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/target/test-classes" />
+    <content url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn">
+      <sourceFolder url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/target" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER" level="application" />
+    <orderEntry type="module-library">
+      <library name="commons-fileupload-1.3.1.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/commons-fileupload-1.3.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-io-2.4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/commons-io-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-lang3-3.3.2.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/commons-lang3-3.3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pager-taglib.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/pager-taglib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sqljdbc4.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/Compressed/源代码/ch11/olLearn/WebRoot/WEB-INF/lib/sqljdbc4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="jsp-api" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="Maven: javax.servlet:jstl:1.1.2" level="project" />
+    <orderEntry type="library" name="Maven: taglibs:standard:1.1.2" level="project" />
+    <orderEntry type="library" name="lib (2)" level="project" />
+    <orderEntry type="library" name="lib (3)" level="project" />
+  </component>
+</module>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/antlr-2.7.6.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/aspectjrt.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/aspectjweaver.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/cglib-nodep-2.1_3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/common-annotations.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-beanutils.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-collections-2.1.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-dbcp.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-digester.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-logging.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-pool.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/ehcache-1.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate-3.2.7.ga.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate-annotations.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate-commons-annotations.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate-entitymanager.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate3.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/javassist.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/jstl.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/jta.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/log4j-1.2.11.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/log4j-1.2.14.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/msbase.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/mssqlserver.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/msutil.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/mysql-connector-java-3.1.13-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/pager-taglib.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/slf4j-api-1.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/slf4j-log4j12-1.5.0.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/spring-webmvc-struts.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/spring.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/sqljdbc.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/standard.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/struts.jar!/" />
+    <conelement value="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot" relative="/" />
+        </webroots>
+        <sourceRoots />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS">
+      <sourceFolder url="file://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER" level="application" />
+    <orderEntry type="module-library">
+      <library name="antlr-2.7.6.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/antlr-2.7.6.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjrt.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/aspectjrt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="aspectjweaver.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/aspectjweaver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="cglib-nodep-2.1_3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/cglib-nodep-2.1_3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="common-annotations.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/common-annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-beanutils.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-beanutils.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-collections-2.1.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-collections-2.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-dbcp.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-dbcp.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-digester.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-digester.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-logging.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-logging.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="commons-pool.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/commons-pool.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="dom4j-1.6.1.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/dom4j-1.6.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ehcache-1.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/ehcache-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-3.2.7.ga.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate-3.2.7.ga.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-annotations.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate-annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-commons-annotations.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate-commons-annotations.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate-entitymanager.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate-entitymanager.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="hibernate3.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/hibernate3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javassist.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/javassist.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jstl.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/jstl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jta.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/jta.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.11.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/log4j-1.2.11.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="log4j-1.2.14.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/log4j-1.2.14.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="msbase.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/msbase.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mssqlserver.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/mssqlserver.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="msutil.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/msutil.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-3.1.13-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/mysql-connector-java-3.1.13-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="pager-taglib.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/pager-taglib.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-api-1.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/slf4j-api-1.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="slf4j-log4j12-1.5.0.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/slf4j-log4j12-1.5.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring-webmvc-struts.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/spring-webmvc-struts.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="spring.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/spring.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sqljdbc.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/sqljdbc.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="standard.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/standard.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="struts.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/源代码【尚学堂·百战程序员】/HEMRS/WebRoot/WEB-INF/lib/struts.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

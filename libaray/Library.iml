@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/Java_Library_Management_System-master/lib/mysql-connector-java-8.0.16.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/Java_Library_Management_System-master/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/Java_Library_Management_System-master/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/Java_Library_Management_System-master">
+      <sourceFolder url="file://$MODULE_DIR$/Java_Library_Management_System-master/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="openjdk-18" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-8.0.16.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/Java_Library_Management_System-master/lib/mysql-connector-java-8.0.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>
