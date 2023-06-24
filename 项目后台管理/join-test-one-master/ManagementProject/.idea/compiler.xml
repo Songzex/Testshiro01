@@ -9,7 +9,7 @@
         <module name="yizhi-test" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="yizhi-test" target="11" />
     </bytecodeTargetLevel>
   </component>
